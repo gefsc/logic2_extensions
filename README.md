@@ -3,7 +3,7 @@
 
 Repository containing sources for logic2 softwareextension to decode several type of serial communication.  
 
-## com_serial
+## Serial com hexa displau
 
-Extensions for logic2 software to decode serial communication.
+Extensions for logic2 software to display hexadecimal values on serial communication.
   
