@@ -1,0 +1,13 @@
+{
+  "name": "Serial com hexa display",
+  "apiVersion": "1.0.0",
+  "author": "gefsc",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "Serial com hexa display": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
